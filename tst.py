@@ -1,1 +1,6 @@
-print(2+3, "is the sum of 2+3")
+include<iostream>
+using namespace std;
+int main(){
+
+cout<<"hello world";
+}
